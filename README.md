@@ -4,4 +4,4 @@
 
 ## Final Project Screenshots
 [<img src="CSE462_FinalProject/Screenshot_20200118-084537_Ar_Designer.jpg" width=420>](CSE462_FinalProject/Screenshot_20200118-084537_Ar_Designer.jpg)
-[<img src="CSE462_FinalProject/Screenshot_20200118-084537_Ar_Designer.jpg" width=420>](CSE462_FinalProject/Screenshot_20200118-084537_Ar_Designer.jpg)
+[<img src="CSE462_FinalProject/Screenshot_20200118-084738_Ar_Designer.jpg" width=420>](CSE462_FinalProject/Screenshot_20200118-084537_Ar_Designer.jpg)
